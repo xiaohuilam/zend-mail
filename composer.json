@@ -20,7 +20,7 @@
         "ext-iconv": "*",
         "zendframework/zend-loader": ">=2.5",
         "zendframework/zend-mime": ">=2.5",
-        "zendframework/zend-stdlib": ">=2.7",
+        "xiaohuilam/zend-stdlib": ">=2.7",
         "xiaohuilam/zend-validator": ">=2.14.2",
         "true/punycode": ">=2.1"
     },
